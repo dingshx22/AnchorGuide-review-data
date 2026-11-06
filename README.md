@@ -36,8 +36,12 @@ retained E118 timer anomalies from the external speedup claims.
 
 ## Dataset record
 
-The canonical dataset record will be deposited on Zenodo. The DOI will be
-added here after the Zenodo record is published and independently verified.
+The canonical dataset record is published on Zenodo as version 1.0.0:
+
+- DOI: `10.5281/zenodo.24012683`
+- Record: `https://zenodo.org/records/24012683`
+
+The all-versions DOI is `10.5281/zenodo.24012682`.
 
 ## License
 
